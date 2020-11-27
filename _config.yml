@@ -6,7 +6,7 @@ description: "Página de introducción Paratú."
 keywords: "food security, sustainability"
 skills: "Reciclaje, sostenibilidad"
 meta_author: JJ Merelo
-baseurl: /paratu
+relative_url: /paratu/
 
 # Google webmaster tools
 google_verify:
