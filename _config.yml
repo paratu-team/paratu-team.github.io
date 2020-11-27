@@ -32,23 +32,17 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: cc-by-sa
+  location: Granada
+  social: jjmerelo
+  credits: Concurso de Ideas
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/jjmerelo
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/JJ/paratu
 
 # Postal address (add as many lines as necessary)
 address:
