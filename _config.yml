@@ -1,11 +1,13 @@
 # Site settings
 title: Paratú
 email: jj@paratú.team
-url: https://jj.github.io/paratu/
+url: https://jj.github.io/paratu
 description: "Página de introducción Paratú."
 keywords: "food security, sustainability"
 skills: "Reciclaje, sostenibilidad"
 meta_author: JJ Merelo
+baseurl: https://jj.github.io/paratu
+relative_url: paratu/
 
 # Google webmaster tools
 google_verify:
