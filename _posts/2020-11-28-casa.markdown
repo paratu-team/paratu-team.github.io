@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+date: 2020-11-28
+img: casa.png
+alt: Para tu casa
+project-date: November 2020
+client: Home
+description: Para tu casa, los mejores productos alimentarios de productores locales, las mejores comidas preparadas en tu barrio, y si te sobra comida, puedes ofertarla para gente de tu barrio o donarla y obtener <em>paratúcoins</em> con ello.
+---
